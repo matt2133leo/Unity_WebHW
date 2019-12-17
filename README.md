@@ -11,6 +11,6 @@
  
  ### 5.W5作業_
  
- ### 6.W6作業_卡牌比大小：https://matt2133leo.github.io/Unity_WebHW/cardgame_web
+ ### 6.W6作業_卡牌比大小：https://matt2133leo.github.io/Unity_WebHW/Cardgame_web
  
- ### 7.W7作業_金幣(自行添加：金幣計數器):https://matt2133leo.github.io/Unity_WebHW/coin_web
+ ### 7.W7作業_金幣(自行添加：金幣計數器):https://matt2133leo.github.io/Unity_WebHW/Coin_web
