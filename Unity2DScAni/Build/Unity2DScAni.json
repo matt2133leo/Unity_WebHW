@@ -1,0 +1,16 @@
+{
+"companyName": "Oppositaman",
+"productName": "OppositaMan |  2D遊戲場景與角色動畫",
+"productVersion": "0.1",
+"dataUrl": "Unity2DScAni.data.unityweb",
+"wasmCodeUrl": "Unity2DScAni.wasm.code.unityweb",
+"wasmFrameworkUrl": "Unity2DScAni.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
