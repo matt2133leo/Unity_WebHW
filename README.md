@@ -7,7 +7,7 @@
  
  ### 3.W3作業_C# 方法與 API - Method & API:https://matt2133leo.github.io/Unity_WebHW/UnityMethodAPI
  
- ### 4.W4作業_C# 靜態、非靜態 API 與 if 判斷式:https://github.com/matt2133leo/Practice_CSharp_StaticAPI_NonStaticAPI_If
+ ### 4.W4作業_C# 靜態、非靜態 API 與 if 判斷式(非Web):https://github.com/matt2133leo/Practice_CSharp_StaticAPI_NonStaticAPI_If
  
  ### 5.W5作業_綜合練習：實作 2D 射擊小遊戲:https://matt2133leo.github.io/Unity_WebHW/2DShootGame
  
